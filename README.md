@@ -1,1 +1,3 @@
 # javascript
+
+TO LEARN MERN YOU NEED BASIC OF JS
