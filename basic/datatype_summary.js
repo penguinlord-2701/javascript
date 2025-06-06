@@ -24,4 +24,13 @@ console.log(typeof(bigNumber));
 
 //arrray , objects, functions 
 
-
+const heros =["shaktiman","doga","naagraj"];
+let myobj ={
+    name:"daksh",
+    age: 22,
+}
+const temp = null;
+const myfunction = function(){
+    console.log("hello world");
+}
+console.log(typeof(temp));
