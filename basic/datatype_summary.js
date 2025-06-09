@@ -25,7 +25,7 @@ console.log(typeof(bigNumber));
 //arrray , objects, functions 
 
 const heros =["shaktiman","doga","naagraj"];
-let myobj ={
+let myobj ={       // object declaration
     name:"daksh",
     age: 22,
 }
